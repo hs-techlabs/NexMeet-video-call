@@ -21,6 +21,19 @@
   font-weight: 500;
 }
 
+.landingPageContainer nav .navHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.landingPageContainer nav .navHeader img {
+  width: 220px;
+  height: 52px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 .landingPageContainer nav .navlist {
   display: flex;
   gap: 1.6rem;
