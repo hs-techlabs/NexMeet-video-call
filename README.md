@@ -36,6 +36,9 @@ Deployment: Render.
 
 Installation & Setup:
 
+<img width="1536" height="1024" alt="flow of project" src="https://github.com/user-attachments/assets/961b6eac-4d72-44de-b525-9cdf0a378ddf" />
+
+
 Clone the Repository: git clone https://github.com/hs-techlabs/NexMeet-video-call.git
 
 Navigate to Project Directory: cd NexMeet-video-call
