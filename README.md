@@ -1,4 +1,4 @@
-<img width="1470" height="803" alt="Screenshot 2026-05-09 at 2 14 57 PM" src="https://github.com/user-attachments/assets/16d05365-fb45-4189-9c25-ed01c8161b7f" />NexMeet 🚀
+NexMeet 🚀
 
 A modern full-stack real-time communication platform built for seamless collaboration, featuring high-quality video calling, instant messaging, screen sharing, and desktop sharing.
 
