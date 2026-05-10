@@ -63,5 +63,3 @@ Himanshu Sharma
 B.Tech CSE Student | Full Stack Developer | Tech Enthusiast
 “Connecting people through seamless real-time communication and modern web experiences.”
 
-📜 License:
-This project is open-source and available under the MIT License.
