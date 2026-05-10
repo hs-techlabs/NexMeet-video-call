@@ -5,6 +5,11 @@ A modern full-stack real-time communication platform built for seamless collabor
 <img width="1470" height="803" alt="Screenshot 2026-05-09 at 2 14 57 PM" src="https://github.com/user-attachments/assets/a2785d45-1c12-44e4-8c7e-277b2afe72c8" />
 
 
+<img width="612" height="577" alt="Screenshot 2026-05-09 at 2 15 19 PM" src="https://github.com/user-attachments/assets/3b9a1787-deab-42b5-9534-7b884dbc5d99" />
+
+
+<img width="1465" height="724" alt="Screenshot 2026-05-09 at 2 19 43 PM" src="https://github.com/user-attachments/assets/5f80a8d8-d6c2-45f2-8f00-b34da472e324" />
+
 
 🌐 Live Demo:
 https://nexmeet-video-call-frontend.onrender.com
