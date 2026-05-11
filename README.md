@@ -25,6 +25,7 @@ https://nexmeet-video-call-frontend.onrender.com
 https://github.com/hs-techlabs/NexMeet-video-call
 
 ✨ Features:
+
 Real-Time Video Calling , Instant Chat Messaging  , Screen Sharing , Desktop Sharing , Fast & Responsive UI , Secure Peer-to-Peer Communication , Cross-Platform Accessibility , Real-Time Socket Connection.
 
 🛠️ Tech Stack: 
@@ -61,6 +62,7 @@ NexMeet-video-call/
 └── README.md
 
 🎯 Vision: 
+
 NexMeet is designed to deliver a smooth and interactive communication experience using modern full-stack technologies and real-time networking solutions.
 
 👨‍💻 Author:
