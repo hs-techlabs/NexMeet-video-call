@@ -28,6 +28,7 @@ https://github.com/hs-techlabs/NexMeet-video-call
 Real-Time Video Calling , Instant Chat Messaging  , Screen Sharing , Desktop Sharing , Fast & Responsive UI , Secure Peer-to-Peer Communication , Cross-Platform Accessibility , Real-Time Socket Connection.
 
 🛠️ Tech Stack: 
+
 Frontend: React.js , Tailwind CSS , Socket.IO Client.
 
 Backend: Node.js , Express.js , Socket.IO , WebRTC.
@@ -48,10 +49,15 @@ Install Dependencies: npm install
 Run Development Server:  npm start
 
 📁 Project Structure:
+
 NexMeet-video-call/
+
 │
+
 ├── frontend/.................
+
 ├── backend/..................
+
 └── README.md
 
 🎯 Vision: 
